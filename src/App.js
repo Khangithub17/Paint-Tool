@@ -1,9 +1,10 @@
 import React from 'react'
+import MsPaintClone from './MsPaintClone'
 
 const App = () => {
   return (
     <div>
-      Hello
+      <MsPaintClone/>
     </div>
   )
 }
